@@ -14,7 +14,7 @@
     "async": "~0.1.22",
     "archiver": "0.14.3"
   },
-  "repository": "https://github.com/bryansills/android-bootstrap-site.git",
+  "repository": "https://github.com/donnfelker/android-bootstrap-site.git",
   "engines": {
     "node": "10.26.x",
     "npm": "1.4.3"
